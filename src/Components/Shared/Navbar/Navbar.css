@@ -1,0 +1,36 @@
+
+.custom-nav {
+    font-family: 'Oxygen', sans-serif;
+    font-weight: 700;
+}
+
+
+.custom-btn {
+    background-color: #9E4CDF;
+    color: #ffffff;
+    border-radius: 24px;
+    padding: 15px 20px;
+    font-weight: 700;
+    box-shadow: none !important;
+    
+    
+    
+}
+.custom-btn:hover {
+    color: #fff;
+    background: #C57BFF;
+}
+
+.custom-btn-2 {
+    background-color: #9E4CDF;
+    color: #ffffff !important; 
+    border-radius: 4px;
+    padding: 8px 15px !important;
+    font-weight: 700;
+    box-shadow: none !important; 
+}
+
+.custom-btn-2:hover {
+    color: #ffffff;
+    background: #C57BFF;
+}

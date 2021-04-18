@@ -1,0 +1,17 @@
+/* .testimonial-card {
+    background: rgba(206, 145, 255, 0.31);
+
+} */
+
+.testimonials-wrap {
+    text-align: center;
+    color: #444444;
+    font-family: 'Oxygen', sans-serif;
+    padding: 60px 0 30px;
+}
+.testimonials-header h2{
+    font-size: 36px;
+    font-weight: 700;
+    padding: 0px 0 55px;
+    margin: 0;
+}

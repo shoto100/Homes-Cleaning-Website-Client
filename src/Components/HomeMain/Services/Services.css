@@ -1,0 +1,23 @@
+.services-wrap {
+    text-align: center;
+    color: #444444;
+    font-family: 'Oxygen', sans-serif;
+    padding: 60px 0 70px;
+}
+.services-wrap h1 {
+    font-size: 36px;
+    font-weight: 700;
+    padding: 0px 0 25px;
+    margin: 0;
+}
+.services-wrap h4 {
+    font-size: 20px;
+    font-weight: 400;
+    padding:0 0 55px 0px;
+}
+
+@media screen and (max-width: 360px) {
+    .services-wrap {
+        padding-bottom: 40px;
+    }
+  }

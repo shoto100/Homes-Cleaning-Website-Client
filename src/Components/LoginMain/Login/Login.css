@@ -1,0 +1,22 @@
+.form-em-pass  {
+    padding: 30px;
+    border: 1px solid red;
+    margin: 100px 320px 20px;
+    text-align: start;
+    border-radius: 10px;
+}
+.custom-btn {
+    background-color: #ff6e40 !important;
+    color: #fff !important;
+    border: 1px solid #ff6e40 !important;
+}
+.social {
+    height: 40px;
+}
+.use-google {
+    margin: 50px 450px 10px;
+    border: 1px solid rgb(16, 89, 245);
+    border-radius: 30px;
+    padding: 10px 0;
+    cursor: pointer;
+}

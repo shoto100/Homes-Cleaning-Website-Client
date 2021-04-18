@@ -1,0 +1,23 @@
+.ban-wrap {
+    font-family: 'Oxygen', sans-serif;
+    color:#444444;
+    padding: 80px 0;
+    text-align: center;
+}
+.ban-header {
+    font-weight: 700;
+}
+.ban-content {
+    padding: 0 50px;
+}
+
+@media screen and (max-width: 360px) {
+    .ban-wrap{
+        padding: 40px 0;
+        
+    }
+    .ban-content {
+        padding: 0 10px;
+    }
+
+  }

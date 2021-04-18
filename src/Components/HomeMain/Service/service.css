@@ -1,0 +1,15 @@
+.custom-card {
+    margin-bottom: 20px;
+}
+.custom-card:hover {
+    transform: scale(1.04);
+  }
+@media screen and (max-width: 360px) {
+    .custom-card-body {
+        margin-bottom: 10px ;
+    }
+    .card-sm {
+        display: flex;
+        justify-content: center;
+    }
+  }
